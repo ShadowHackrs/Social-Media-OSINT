@@ -96,6 +96,8 @@ python social_media_tools.py
 
 This tool is for educational purposes only. Users are responsible for complying with applicable laws and regulations. The developer is not responsible for any misuse or damage caused by this tool.
 
+[https://www.shadowhackr.com/2025/01/Social-Media-OSINT.html](https://www.shadowhackr.com/2025/01/Social-Media-OSINT.html)
+
 ## 🔒 Privacy & Security
 
 - Don't share your API keys
