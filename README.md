@@ -26,6 +26,8 @@ A powerful Python-based tool for social media analysis, OSINT (Open Source Intel
 
 ## 📋 Requirements
 
+Download ngrok ![image](https://github.com/user-attachments/assets/35383c96-3045-4842-934b-6d5f3d00aa78)
+
 - Python 3.8+
 - Chrome Browser
 - Active Internet Connection
