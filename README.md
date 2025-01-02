@@ -2,7 +2,7 @@
 
 A powerful Python-based tool for social media analysis, OSINT (Open Source Intelligence), and digital investigation. This tool combines various techniques to gather information from social media platforms and perform location tracking.
 
-![Tool Banner](https://raw.githubusercontent.com/shadowhackr/social-media-tools/main/banner.png)
+![image](https://github.com/user-attachments/assets/35383c96-3045-4842-934b-6d5f3d00aa78)
 
 ## 🌟 Features
 
@@ -26,7 +26,7 @@ A powerful Python-based tool for social media analysis, OSINT (Open Source Intel
 
 ## 📋 Requirements
 
-Download ngrok ![image](https://github.com/user-attachments/assets/35383c96-3045-4842-934b-6d5f3d00aa78)
+Download ngrok [https://download.ngrok.com/windows?tab=download](https://download.ngrok.com/windows?tab=download)
 
 - Python 3.8+
 - Chrome Browser
