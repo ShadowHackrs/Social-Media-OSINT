@@ -1,0 +1,3 @@
+authtoken: YOUR_AUTH_TOKEN
+version: "2"
+region: eu

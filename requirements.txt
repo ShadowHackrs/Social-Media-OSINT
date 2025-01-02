@@ -1,0 +1,17 @@
+flask>=3.0.0
+folium>=0.15.0
+selenium>=4.16.0
+webdriver_manager>=4.0.1
+beautifulsoup4>=4.12.2
+undetected-chromedriver>=3.5.5
+colorama>=0.4.6
+phonenumbers>=8.13.30
+pyfiglet>=1.0.0
+termcolor>=2.4.0
+tqdm>=4.66.1
+requests>=2.31.0
+python-twitter>=3.5.0
+geopy>=2.4.1
+pillow>=10.1.0
+numpy>=1.26.2
+pandas>=2.1.4
