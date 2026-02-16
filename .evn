@@ -1,0 +1,26 @@
+# Social Media OSINT - 100% Real Data
+
+# Numverify - REAL phone validation
+NUMVERIFY_API_KEY=457c87a4f17853b4948af96e5ad7bfe0
+
+# OpenCellID - REAL cell tower data (free: opencellid.org)
+OPENCELLID_API_KEY=pk.5aea24c920161ab5fb5c6100afe2bfb6
+
+# Hunter.io - Email/domain OSINT (free: hunter.io)
+HUNTER_API_KEY=
+
+# HaveIBeenPwned - Breach check (hibp.com)
+HIBP_API_KEY=
+
+# Twitter API (optional)
+TWITTER_CONSUMER_KEY=
+TWITTER_CONSUMER_SECRET=
+TWITTER_ACCESS_TOKEN=
+TWITTER_ACCESS_TOKEN_SECRET=
+
+# Proxy (optional)
+PROXY_URL=
+
+HEADLESS=true
+CHROME_TIMEOUT=30
+RATE_LIMIT_RPM=60
